@@ -49,3 +49,7 @@ GitHub: HKUDS/Vibe-Trading
 Streamlit: 极其简单。只需几行代码，就可以把 AKShare 的 DataFrame 数据变成一个交互式的网页图表。
 丁香园/数据观 (Datalore): 这种在线 NoteBook 也可以提供非常直观的表格和绘图展示。
 
+
+从yahoo finannce获取财经数据
+pip install yfinance
+
