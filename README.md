@@ -53,3 +53,5 @@ Streamlit: 极其简单。只需几行代码，就可以把 AKShare 的 DataFram
 从yahoo finannce获取财经数据
 pip install yfinance
 
+https://finnhub.io/ 获取实时数据，每分钟60次
+
